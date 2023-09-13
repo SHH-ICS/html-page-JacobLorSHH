@@ -1,3 +1,14 @@
 body{
     color: rgb(50, 152, 199);
 }
+.Capitals{
+    font-size: x-large;
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.Cities{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    
+}
