@@ -6,6 +6,7 @@ body{
     color: blanchedalmond;
     text-align: center;
     padding-bottom: 20px;
+    
 }
 .Cities{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -15,5 +16,5 @@ body{
 .PictureOttawa{
     width: 1000px;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.3);
 }
